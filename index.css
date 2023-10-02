@@ -11,7 +11,9 @@ html{
 }
 .link-div{
     display: flex;
-    
+    justify-content: space-evenly;
+    /* border: 1px solid white; */
+    margin-top: 5px;
 }
 .max-width{
     max-width: 1300px;
@@ -376,6 +378,14 @@ section .title::after{
 }
 .project-card{
     height: 450px;
+}
+.project-tech-stack{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
 .projects .carousel .project-card:hover{
     background: #29B6F6;
