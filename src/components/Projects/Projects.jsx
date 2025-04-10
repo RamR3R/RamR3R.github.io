@@ -17,9 +17,9 @@ const data = [
     ],
     description:
       " Welcome to Wood Fans, your premier destination for exquisite and sustainable furniture solutions that transform your living spaces into havens of comfort and style.",
-    githubLink: "https://github.com/1ashutoshverma/wood-fans-mern",
+    githubLink: "https://github.com/RamR3R/woodFans",
     appLink: "https://wood-fans.vercel.app/",
-    backendLink: "https://github.com/1ashutoshverma/wood-fans-backend",
+    backendLink: "https://github.com/RamR3R/woodFans/tree/main/wood-fans-frontend",
   },
   {
     img: "/projectImages/chatapp.png",
@@ -37,9 +37,9 @@ const data = [
     ],
     description:
       "Revolutionize social connections with our dynamic chat app! Engage in vibrant public groups, effortlessly find and connect with users, and elevate your networking experience through our user-friendly interface.",
-    githubLink: "https://github.com/1ashutoshverma/chat-app-frontend",
+    githubLink: "https://github.com/RamR3R/chatApp",
     appLink: "https://own-chat-app.vercel.app/",
-    backendLink: "https://github.com/1ashutoshverma/chat-app-backend",
+    backendLink: "https://github.com/RamR3R/chatApp/tree/master/chat-app-backend",
   },
   {
     img: "/projectImages/GreenParadise.png",
@@ -47,7 +47,7 @@ const data = [
     techStack: ["HTML", "CSS", "JavaScript", "Firebase", "RazorPay"],
     description:
       "Green Paradise is an e-commerce website designed for plant enthusiasts. It offers a wide variety of plants and gardening supplies, making it easy for users to browse, select, and purchase their favourite plants online.",
-    githubLink: "https://github.com/1ashutoshverma/Green-Paradise",
+    githubLink: "https://github.com/RamR3R/greenParadise",
     appLink: "https://green-paradise-team.netlify.app/",
   },
   {
@@ -56,7 +56,7 @@ const data = [
     techStack: ["HTML", "CSS", "JavaScript"],
     description:
       "Bewakoof.com is an Indian e-commerce platform known for its trendy and quirky fashion, offering a wide range of casual clothing, accessories, and merchandise. it caters to individuals looking for unique and fun apparel choices.",
-    githubLink: "https://github.com/1ashutoshverma/bewakoof-clone",
+    githubLink: "https://github.com/RamR3R/Bewakoof",
     appLink: "https://bewakoof-team.netlify.app/",
   },
   // {
